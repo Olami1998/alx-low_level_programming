@@ -1,23 +1,18 @@
-nclude <stdio.h>
+/*
+ * filr: 4-puts.c
+ */
 
-
+#include <stdio.h>
 
 /**
+ * main - Prints "Programming is like building a multilingual
+ * 		puzzle, followed by a new line.
  *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
+ * 		Return: Always 0.
+ */
 int main(void)
-
 {
+	puts("\"Programming is like building a multilingual puzzel");
 
-		puts("\"Programming is like building a multilingual puzzle");
-
-			return (0);
-
+	return (0);
 }
