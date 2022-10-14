@@ -19,7 +19,7 @@ int main(void)
 		if (low != e && low != q)
 			putchar(low);
 	}
-	putcharr('\n');
+	putchar('\n');
 
 	return (0);
 }
