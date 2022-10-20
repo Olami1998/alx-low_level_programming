@@ -2,9 +2,9 @@
 
 /**
  * _isupper - checks if a character is uppercase
- * @c: Variable text
+ * @c: Variant text
  *
- * Return: Alwways 0
+ * Return: Always (0)
  */
 int _isupper(int c)
 {
